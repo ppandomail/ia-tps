@@ -15,8 +15,8 @@ Repositorio central con las entregas y Trabajos Prácticos (TPs) desarrollados a
 
 ## 👥 Integrantes
 
-* **Lic. Mariano Castroman** — [![GitHub](https://github.com/mariano1405/)]
-* **Mag. Ing. Pablo Pandolfo** — [![GitHub](https://github.com/ppandomail)]
+* **Lic. Mariano Castroman** — [![GitHub](https://img.shields.io/badge/GitHub-mariano1405-181717?logo=github)](https://github.com/mariano1405/)
+* **Mag. Ing. Pablo Pandolfo** — [![GitHub](https://img.shields.io/badge/GitHub-ppandomail-181717?logo=github)](https://github.com/ppandomail)
 
 ---
 
