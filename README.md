@@ -16,13 +16,13 @@ Repositorio central con las entregas y Trabajos Prácticos (TPs) desarrollados a
 ## 👥 Integrantes
 
 * **Lic. Mariano Castroman** — [![GitHub](https://github.com/mariano1405/)]
-* **Mag. Ing. Pablo Pandolfo** — [![GitHub](https://github.com/ppandomail)
+* **Mag. Ing. Pablo Pandolfo** — [![GitHub](https://github.com/ppandomail)]
 
 ---
 
 ## 📌 Descripción del Repositorio
 
-Este repositorio reúne las resoluciones de consignas teóricas y prácticas, cuadernos de Jupyter (`.ipynb`), scripts en Python y proyectos finales correspondientes a los diferentes módulos de la **Especialización en Inteligencia Artificial** de la UNAJ.
+Este repositorio reúne las resoluciones de consignas teóricas y prácticas, cuadernos de Jupyter (`.ipynb`), scripts en Python y proyectos finales correspondientes a las diferentes materias de la **Especialización en Inteligencia Artificial** de la UNAJ.
 
 ---
 
