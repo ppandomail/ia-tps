@@ -15,8 +15,8 @@ Repositorio central con las entregas y Trabajos Prácticos (TPs) desarrollados a
 
 ## 👥 Integrantes
 
-* **Lic. Mariano Castroman** — [![GitHub](https://img.shields.io/badge/GitHub-mariano-181717?style=flat&logo=github)](https://github.com/)
-* **Mag. Ing. Pablo Pandolfo** — [![GitHub](https://img.shields.io/badge/GitHub-pablo-181717?style=flat&logo=github)](https://github.com/)
+* **Lic. Mariano Castroman** — [![GitHub](https://github.com/mariano1405/)]
+* **Mag. Ing. Pablo Pandolfo** — [![GitHub](https://github.com/ppandomail)
 
 ---
 
@@ -31,27 +31,20 @@ Este repositorio reúne las resoluciones de consignas teóricas y prácticas, cu
 Cada directorio contiene el material, consignas y resolución de los trabajos prácticos de cada cátedra:
 
 ```text
-├── 01-programacion/
-│   ├── tp1/
-│   ├── tp2/
-│   └── README.md
-├── 02-estadistica/
-│   ├── tps/
-│   └── data/
-├── 03-inteligencia-artificial/
-│   ├── notebooks/
-│   └── modelos/
-└── templates-entregas/
+├── programacion/
+│   
+├── estadistica/
+|  
+└── ia/
 ```
 
-### Índice de Módulos
+### Índice de Materias
 
-| Módulo / Materia | Descripción | Estado |
-| :--- | :--- | :---: |
-| **Programación para IA** | Algoritmos, estructuras de datos, Python avanzado y librerías científicas. | `En curso` |
-| **Estadística y Probabilidad** | Inferencia, distribuciones, análisis exploratorio de datos (EDA). | `En curso` |
-| **Fundamentos de Inteligencia Artificial** | Búsqueda, agentes inteligentes, heurísticas y algoritmos clásicos. | `En curso` |
-| *Otras materias* | Aprendizaje supervisado/no supervisado, Deep Learning, NLP, etc. | `Pendiente` |
+| Materia          | Descripción                                                                | Estado      |
+| :---             | :---                                                                       | :---:       |
+| **Programación** | Algoritmos, estructuras de datos, Python avanzado y librerías científicas. | `En curso`  |
+| **Estadística**  | Inferencia, distribuciones, análisis exploratorio de datos (EDA).          | `En curso`  |
+| **IA**           | Búsqueda, agentes inteligentes, heurísticas y algoritmos clásicos.         | `Pendiente` |
 
 ---
 
@@ -61,8 +54,8 @@ Para replicar y ejecutar los notebooks y scripts de este repositorio:
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repo.git
-   cd nombre-del-repo
+   git clone https://github.com/ppandomail/ia-tps.git
+   cd ia-tps
    ```
 
 2. **Crear y activar un entorno virtual:**
